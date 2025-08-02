@@ -108,6 +108,22 @@
     ]
   },
   {
+    "ContainingType": "AuthAPI.Controllers.AccountController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/Account/reset-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resetPasswordDto",
+        "Type": "AuthApi.Dtos.ResetPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "AuthAPI.Controllers.RolesController",
     "Method": "CreateRole",
     "RelativePath": "api/Roles",
