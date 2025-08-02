@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace AuthAPI.Controllers
 {
+    [Authorize(Roles = "Admin")]
     [ApiController]
     [Route("api/[controller]")]
     public class RolesController : ControllerBase
