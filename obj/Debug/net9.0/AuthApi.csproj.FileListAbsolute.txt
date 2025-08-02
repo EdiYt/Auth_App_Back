@@ -174,3 +174,4 @@ C:\Users\erick\Desktop\Ingenieria\Desarrollo web integral\AuthApi\AuthApi\obj\De
 C:\Users\erick\Desktop\Ingenieria\Desarrollo web integral\AuthApi\AuthApi\obj\Debug\net9.0\AuthApi.genruntimeconfig.cache
 C:\Users\erick\Desktop\Ingenieria\Desarrollo web integral\AuthApi\AuthApi\obj\Debug\net9.0\ref\AuthApi.dll
 C:\Users\erick\Desktop\Ingenieria\Desarrollo web integral\AuthApi\AuthApi\obj\Debug\net9.0\AuthApi.sourcelink.json
+C:\Users\erick\Desktop\Ingenieria\Desarrollo web integral\AuthApi\AuthApi\bin\Debug\net9.0\RestSharp.dll
