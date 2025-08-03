@@ -21,6 +21,22 @@
   },
   {
     "ContainingType": "AuthAPI.Controllers.AccountController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Account/change-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "changePasswordDto",
+        "Type": "AuthApi.Dtos.ChangePasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthAPI.Controllers.AccountController",
     "Method": "GetUserDetail",
     "RelativePath": "api/Account/detail",
     "HttpMethod": "GET",
